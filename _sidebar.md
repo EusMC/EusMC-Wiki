@@ -1,11 +1,12 @@
 - **了解**
     - [什么是 EusMC ?](introduction.md)
-    - [EusMC 管理组](operators.md)
+    - [EusMC 管理组](eusmcadmin.md)
+	- [EusMC历史](history.md)
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
-    - [基础教程](tutorial.md)
-    - [规章制度](rules.md)
+    - [基础教程](getting-started/tutorial.md)
+    - [规章制度](getting-started/rules.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
 - **社区/论坛**
@@ -20,17 +21,9 @@
 - **EpicWorld FantasyLand**
 - **SEATiDE Independent Mode Server**
     - *[访问 Seaweed](//wiki.seatide.net)*
-- **插件使用**
-    - *Residence*
-        - *[如何圈地？](plugins/residence/how-to-create-a-residence.md)*
-    - *[服务器插件一览](plugins/all.md)*
+
 - **附加内容**
-    - [指令格式](others/command-format.md)
-    - [指令大全(玩家篇)](others/commands-for-players.md)
-    - [指令大全(OP 篇)](others/commands-for-operators.md)
-- **关于**
-    - [管理组介绍](about/management.md)
-    - [技术信息](about/technical-information.md)
+    - [指令大全](others/commands-all.md)
 - [更新日志](changelog.md)
 - *[反馈问题](https://g.sotap.org/t/development)*
 
