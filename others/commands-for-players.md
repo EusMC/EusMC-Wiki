@@ -21,3 +21,4 @@
 |`/tpahere`|<玩家名>|请求让某个玩家传送到你当前的位置|`/tpahere Sapherise`|
 |`/tpdeny`|无|拒绝某玩家的传送请求<br>系统会在请求 120 秒后自动拒绝|-|
 |`/version`|无|查看服务器的版本信息|-|
+|`/server`|服务器名称|跳转至其他服务器|`/server skyblock`|
